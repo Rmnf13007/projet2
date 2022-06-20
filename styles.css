@@ -1,0 +1,19 @@
+
+header{
+    background-color: rgb(93, 150, 168);
+   
+  }
+  
+  nav{
+    --bs-body-color: #212529
+  
+  }
+  
+  section{
+    color: rgb(170, 100, 100);
+    text-align: center;
+  }
+  footer{
+    font-family: verdana;
+    font-size: 20px;
+  } 
